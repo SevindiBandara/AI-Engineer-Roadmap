@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+university = input("Enter your university: ")
+degree = input("Enter your degree: ")
+GPA = float(input("Enter your GPA: "))
+
+print("\n-------------student info-------------")
+print("Name:", name)
+print("Age:", age)
+print("University:", university)
+print("Degree:", degree)
+print("GPA:", GPA)
